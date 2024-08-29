@@ -1,0 +1,2 @@
+git clone : It is used to clone a project copy in a remote location to local workspace.
+git push : It used to push the changes in the project at local work space to remote location.
